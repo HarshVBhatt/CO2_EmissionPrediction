@@ -1,0 +1,16 @@
+Final inferences:
+
+1. Majority of the cars have 4 cylinders(43%), followed by 6 cylinders(33%) and 8 cylinders(18%)
+2. These cars account for 94.7% of total CO2 Emissions
+3. Emission increases as number of cylinders increase
+4. Bugatti cars have the highest average emission
+5. Vans (Cargo and Passenger) have the highest average emission
+6. AM5 engines have relatively lowest average emission
+7. E > Z > D > X > N fuel type emission rate
+8. CO2 Emission(g/km) is dependent on Engine Size(L), Fuel Consumption City(L/100km), Fuel Consumption Comb(mpg)
+9. Features like Make, Vehicle Class, Transmission, Fuel Type do not provide significant value towards the prediction of CO2 Emission(g/km)
+10. CO2 Emission(g/km) increases with the increase in Engine Size(L)
+11. CO2 Emission(g/km) increases with the increase in Fuel Consumption City(L/100km)
+12. CO2 Emission(g/km) decreases with the increase in Fuel Consumption Comb(mpg)
+
+Fuel Consumption Comb(mpg) has the most influence on Emission(-ve correlation), followed by Fuel Consumption City(L/100km)(+ve correlation) and lastly Engine Size(L)(+ve correlation)
